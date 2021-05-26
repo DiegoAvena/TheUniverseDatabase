@@ -1,0 +1,23 @@
+Quoted from: https://en.wikipedia.org/wiki/G-type_main-sequence_star
+
+"A G-type main-sequence star (Spectral type: G-V), often called a yellow dwarf, or G dwarf star, is a main-sequence
+star (luminosity class V) of spectral type G. Such a star has about 0.84 to 1.15 solar masses and surface temperature
+of between 5,300 and 6,000 K.[2], Tables VII, VIII. Like other main-sequence stars, a G-type main-sequence star is
+converting the element hydrogen to helium in its core by means of nuclear fusion.[permanent dead link][3] The Sun,
+the star to which the Earth is gravitationally bound in the Solar System, is an example of a G-type main-sequence
+star (G2V type). Each second, the Sun fuses approximately 600 million tons of hydrogen into helium in a process known
+as the proton-proton chain (4 hydrogens form 1 helium), converting about 4 million tons of matter to energy.[4][5]
+Besides the Sun, other well-known examples of G-type main-sequence stars include Alpha Centauri A, Tau Ceti, and 51
+Pegasi.[6][7][8]
+
+The term yellow dwarf is a misnomer, because G-type stars actually range in color from white, for more luminous types
+like the Sun, to only very slightly yellow for the less massive and luminous G-type main-sequence stars.[9] The Sun is
+in fact white, but it can often appear yellow, orange or red through Earth's atmosphere due to atmospheric Rayleigh
+scattering, especially at sunrise and sunset.[10][11][12] In addition, although the term "dwarf" is used to contrast
+yellow main-sequence stars with giant stars, yellow dwarfs like the Sun outshine 90% of the stars in the Milky Way
+(which are largely much dimmer orange dwarfs, red dwarfs, and white dwarfs, the last being a stellar remnant).
+
+A G-type main-sequence star will fuse hydrogen for approximately 10 billion years, until it is exhausted at the center
+of the star. When this happens, the star expands to many times its previous size and becomes a red giant, such as
+Aldebaran (or Alpha Tauri).[13] Eventually the red giant sheds its outer layers of gas, which become a planetary
+nebula, while the core rapidly cools and contracts into a compact, dense white dwarf.[permanent dead link][3]"

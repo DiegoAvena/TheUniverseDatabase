@@ -1,0 +1,20 @@
+Quoted from: https://en.wikipedia.org/wiki/Kepler-62f
+
+"Kepler-62f[1][2][4] (also known by its Kepler Object of Interest designation KOI-701.04) is a super-Earth exoplanet
+orbiting within the habitable zone of the star Kepler-62, the outermost of five such planets discovered around the
+star by NASA's Kepler spacecraft. It is located about 1200 light-years (368 parsecs) from Earth in the constellation
+of Lyra.[5]
+
+Kepler-62f orbits its star at a distance of 0.718 AU (107,400,000 km; 66,700,000 mi) from its host star with an
+orbital period of roughly 267.3 days, has a mass at least 2.8x times that of Earth, and has a radius of around 1.41
+times that of Earth. It is one of the more promising candidates for potential habitability, as its parent star is a
+relatively quiet star, and has less mass than the Sun – thus it can live up to a span of about 30 billion years or
+so.[6] Due to its mass, Kepler-62f is likely a terrestrial or ocean-covered planet. However, key components of the
+exoplanet still need to be assessed to determine habitability; such as its atmosphere if one exists, since it lies
+within the outer part of its host star's habitable zone.[1][7]
+
+The discovery of the exoplanet (along with Kepler-62e) was announced in April 2013 by NASA as part of the Kepler
+spacecraft data release.[1] The exoplanet was found by using the transit method, in which the dimming effect that a
+planet causes as it crosses in front of its star is measured. According to scientists, it is a potential candidate
+to search for extraterrestrial life, and was chosen as one of the targets to study by the Search for Extraterrestrial
+Intelligence (SETI) program.[8]"

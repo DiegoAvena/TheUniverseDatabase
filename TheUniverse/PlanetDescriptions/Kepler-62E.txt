@@ -1,0 +1,10 @@
+Quoted from: https://en.wikipedia.org/wiki/Kepler-62e
+
+"Kepler-62e (also known by its Kepler Object of Interest designation KOI-701.03) is a super-Earth exoplanet
+(extrasolar planet) discovered orbiting within the habitable zone of Kepler-62, the second outermost of five such
+planets discovered by NASA's Kepler spacecraft. Kepler-62e is located about 1,200 light-years (370 pc) from Earth in
+the constellation of Lyra.[3] The exoplanet was found using the transit method, in which the dimming effect that a
+planet causes as it crosses in front of its star is measured. Kepler-62e may be a terrestrial or ocean-covered planet;
+it lies in the inner part of its host star's habitable zone.[1][4]
+
+Kepler-62e orbits its host star every 122 days and is roughly 60 percent larger (in diameter) than Earth.[5]"

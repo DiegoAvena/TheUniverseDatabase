@@ -1,0 +1,7 @@
+Quoted from: https://en.wikipedia.org/wiki/Kepler-442b
+
+"Kepler-442b[1][4][5] (also known by its Kepler object of interest designation KOI-4742.01) is a confirmed
+near-Earth-sized exoplanet, likely rocky, orbiting within the habitable zone of the K-type main-sequence star[6]
+Kepler-442, about 1,206 light-years (370 parsecs), from Earth in the constellation Lyra.[4][5] The planet was
+discovered by NASA's Kepler spacecraft using the transit method, in which the dimming effect that a planet causes as
+it crosses in front of its star is measured. NASA announced the confirmation of the exoplanet on 6 January 2015.[5]"

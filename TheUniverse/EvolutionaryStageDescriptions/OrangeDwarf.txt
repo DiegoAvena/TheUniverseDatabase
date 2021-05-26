@@ -1,0 +1,7 @@
+Quoted from: https://en.wikipedia.org/wiki/K-type_main-sequence_star
+
+"A K-type main-sequence star, also referred to as a K dwarf or orange dwarf, is a main-sequence (hydrogen-burning) star
+of spectral type K and luminosity class V. These stars are intermediate in size between red M-type main-sequence
+stars ("red dwarfs") and yellow G-type main-sequence stars. They have masses between 0.5 and 0.8 times the mass of the
+Sun[1] and surface temperatures between 3,900 and 5,200 K.[2] These stars are of particular interest in the search for
+extraterrestrial life. Well-known examples include Alpha Centauri B (K1 V) and Epsilon Indi (K5 V).[3]"

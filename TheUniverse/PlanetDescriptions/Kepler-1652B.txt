@@ -1,0 +1,8 @@
+Quoted from: https://en.wikipedia.org/wiki/Kepler-1652b
+
+"Kepler-1652b (also known by its Kepler Objects of Interest designation KOI-2626.01) is a super-Earth exoplanet,
+orbiting within the habitable zone of the red dwarf Kepler-1652 about 822 light-years away in the Cygnus constellation.
+Discovered by NASA's Kepler spacecraft, Kepler-1652b was first announced as a candidate in 2013, but wasn't validated
+until four years later in 2017. It is a potential super-Earth with 160% Earth's radius. The planet orbits well within
+the habitable zone of its system, the region where liquid water can exist on a planet's surface.[1] The planet is an
+eyeball planet candidate.[2]"

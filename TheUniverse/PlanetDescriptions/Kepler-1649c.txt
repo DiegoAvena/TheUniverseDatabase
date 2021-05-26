@@ -1,0 +1,8 @@
+Quoted from: https://en.wikipedia.org/wiki/Kepler-1649c
+
+"Kepler-1649c is an exoplanet orbiting the M-type main sequence red dwarf star Kepler-1649, about 300 light-years from
+Earth, in the constellation of Cygnus.[3] In 2020, Jeff Coughlin, the director of SETI's K2 Science Office, described
+it as the most "similar planet to Earth" found so far by the Kepler Space Telescope.[4] The planet was originally
+deemed a false positive by Kepler's robovetter algorithm. The Kepler False Positive Working Group published its
+recovery on April 15, 2020.[5][6] Its first scientific description was published in The Astrophysical Journal Letters,
+with first author Andrew Vanderburg, in April 2020.[5][7]"

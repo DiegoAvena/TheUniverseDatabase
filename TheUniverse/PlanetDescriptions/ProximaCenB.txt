@@ -1,0 +1,24 @@
+Quoted from: https://en.wikipedia.org/wiki/Proxima_Centauri_b
+
+"Proxima Centauri b (also called Proxima b[5][6] or Alpha Centauri Cb) is an exoplanet orbiting in the habitable zone
+of the red dwarf star Proxima Centauri, which is the closest star to the Sun and part of a triple star system.[7][8]
+It is approximately 4.2 light-years (4.0×1013 km) from Earth in the constellation Centaurus, making it and Proxima c
+the closest known exoplanets to the Solar System.
+
+Proxima Centauri b orbits the star at a distance of roughly 0.05 AU (7,500,000 km; 4,600,000 mi) with an orbital
+period of approximately 11.2 Earth days, and has an estimated mass of at least 1.2 times that of Earth. It is subject
+to stellar wind pressures of more than 2,000 times those of Earth from the solar wind, and its habitability has not
+yet been definitively established.[9][10][11]
+
+The planet's discovery was announced in August 2016.[7][2] It was found using the radial velocity method, where
+periodic Doppler shifts of the parent star's spectral lines suggest an orbiting object. From these readings, the
+parent star's radial velocity relative to the Earth is varying with an amplitude of about 1.4 metres (4.5 feet) per
+second.[2] According to Guillem Anglada‐Escudé, the planet's proximity to Earth offers an opportunity for robotic
+exploration with the Starshot project[7][8] or, at least, "in the coming centuries".[8]
+
+Without its orbital inclination known, Proxima Centauri b's exact mass is unknown. If its orbit is nearly edge-on,
+it would have a mass of 1.173±0.086 M⊕ (Earth masses).[1] Statistically, there is a roughly 90% chance that its mass
+is less than 2.77 M⊕.[1][12]
+
+In May 2019, a paper presenting recent Spitzer Space Telescope data concluded that Proxima Centauri b did not transit
+its sun relative to Earth, and attributed previous transit detections to correlated noise.[13]"

@@ -1,0 +1,12 @@
+Quoted from: https://en.wikipedia.org/wiki/Ross_128_b
+
+"Ross 128 b is a confirmed Earth-sized exoplanet, likely rocky, orbiting within the inner habitable zone of the red
+dwarf Ross 128, at a distance of about 11 light-years from Earth.[2] The exoplanet was found using a decade's worth
+of radial velocity data using the European Southern Observatory's HARPS spectrograph (High Accuracy Radial velocity
+Planet Searcher) at the La Silla Observatory in Chile. Ross 128 b is the nearest exoplanet around a quiet red dwarf,
+and is considered one of the best candidates for habitability. The planet is only 35% more massive than Earth,
+receives only 38% more sunlight, and is expected to be a temperature suitable for liquid water to exist on the surface,
+if it has an atmosphere.[1]
+
+The planet does not transit its host star, which will make atmospheric characterization very difficult until larger
+telescopes like the European Extremely Large Telescope and the James Webb Space Telescope come online.[1]"
