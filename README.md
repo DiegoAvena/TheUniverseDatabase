@@ -17,30 +17,30 @@ is currently extremely scattered throughout the internet.
 
 Through this program, the user can:
 
-a. Perform updates, insertions, and deletions on
-   -planets
-   -galaxies
-   -stars
-   -planetary systems
-   -moons
-   -galaxy discoverers
-   -moon discoverers
+- Perform updates, insertions, and deletions on
+   - planets
+   - galaxies
+   - stars
+   - planetary systems
+   - moons
+   - galaxy discoverers
+   - moon discoverers
 
-b. Peform searches on
-   -Single planets
-   -Multiple planets
-   -Single galaxies
-   -multiple galaxies
-   -Single Stars
-   -multiple stars
+- Peform searches on
+   - Single planets
+   - Multiple planets
+   - Single galaxies
+   - multiple galaxies
+   - Single Stars
+   - multiple stars
 
-c. Generate pdf and csv reports for all the different types of searches they can do on this database
-   -PDF reports
-       -Stored in a directory called pdfReports, located in the same directory as this README
-       -These reports allow the user to see images for the things they query
+- Generate pdf and csv reports for all the different types of searches they can do on this database
+   - PDF reports
+       - Stored in a directory called pdfReports, located in the same directory as this README
+       - These reports allow the user to see images for the things they query
 
-   -CSV reports
-       -Stored in a directory called csvReports, located in the same directory as this README
+   - CSV reports
+       - Stored in a directory called csvReports, located in the same directory as this README
 
 
 
@@ -61,9 +61,9 @@ Python 3.9 or Python 3.8
     (File->Settings if on Windows, and PyCharm->Preferences if on mac), and go to Project, open the dropdown,
     select Python Interpreter, and add the following packages (if not already present):
 
-        mysql-connector-python
-        fpdf
-        Pillow
+        - mysql-connector-python
+        - fpdf
+        - Pillow
 
     After installing these, hit ok. Project should now be able to be run.
 
@@ -71,10 +71,10 @@ Python 3.9 or Python 3.8
 
 3. A local mysql instance running on your computer:
 
-    The password for this instance can be anything, since the program will
+    - The password for this instance can be anything, since the program will
     prompt you to enter that password on startup anyways
 
-    To set this up, I used the "MySQL installation guide" slides that are in
+    - To set this up, I used the "MySQL installation guide" slides that are in
     the canvas page set up for the database management course.
 
 
@@ -91,34 +91,34 @@ Python 3.9 or Python 3.8
     the database gets reinitialized entirely
 
 - The main menu:
-    -Shows these options to the user:
+    - Shows these options to the user:
 
-    -Perform a search
-        -will bring up all of the search options
-    -Update a record
-        -will bring up all of the update options
-    -Insert a record
-        -will bring up all of the insertion options
-    -Delete a record
-        -will bring up all of the deletion options
-    -quit
-        -will close the app
+    - Perform a search
+        - will bring up all of the search options
+    - Update a record
+        - will bring up all of the update options
+    - Insert a record
+        - will bring up all of the insertion options
+    - Delete a record
+        - will bring up all of the deletion options
+    - quit
+        - will close the app
 
 - Record Search Manager
     Shows these options to the user:
 
-    -Single Planet Search
-        -will bring up the window for searching for 1 planet
-    -Multiple Planet Search
-        -will bring up the window for searching for more than 1 planet
-    -Single Star Search
-        -will bring up the window for searching for 1 star
-    -multiple star search
-        -will bring up the window for searching for more than 1 star
-    -Single Galaxy Search
-        -will bring up the window for searching for 1 galaxy
-    -Multiple Galaxy Search
-        -will bring up the window for searching for more than 1 galaxy
+    - Single Planet Search
+        - will bring up the window for searching for 1 planet
+    - Multiple Planet Search
+        - will bring up the window for searching for more than 1 planet
+    - Single Star Search
+        - will bring up the window for searching for 1 star
+    - multiple star search
+        - will bring up the window for searching for more than 1 star
+    - Single Galaxy Search
+        - will bring up the window for searching for 1 galaxy
+    - Multiple Galaxy Search
+        - will bring up the window for searching for more than 1 galaxy
 
     For information on how to navigate through a multiple search window, such
     as multi-planetary search, please see the image called: multipleSearchWindowNavigation.png
@@ -133,24 +133,24 @@ Python 3.9 or Python 3.8
 - Record Update Manager
     Shows these options to the user:
 
-    -Update a galaxy record
-        -Will bring up the window for updating a galaxy record
-    -Update a planet record
-        -Will bring up the window for updating a planet record
-    -Update a galaxy type record
-        -Will bring up the window for updating a galaxy type record
-    -Update a evolutionary stage record
-        -Will bring up the window for updating an evolutionary stage record
-    -Update a star record
-        -Will bring up the window for updating a star record
-    -Update a galaxy discoverer record
-        -Will bring up the window for updating a galaxy discoverer record
-    -Update a moon record
-        -Will bring up the window for updating a moon record
-    -Update a system record
-        -Will bring up the window for updating a system record
-    -Update a moon discover record
-        -Will bring up the window for updating a moon discoverer record
+    - Update a galaxy record
+        - Will bring up the window for updating a galaxy record
+    - Update a planet record
+        - Will bring up the window for updating a planet record
+    - Update a galaxy type record
+        - Will bring up the window for updating a galaxy type record
+    - Update a evolutionary stage record
+        - Will bring up the window for updating an evolutionary stage record
+    - Update a star record
+        - Will bring up the window for updating a star record
+    - Update a galaxy discoverer record
+        - Will bring up the window for updating a galaxy discoverer record
+    - Update a moon record
+        - Will bring up the window for updating a moon record
+    - Update a system record
+        - Will bring up the window for updating a system record
+    - Update a moon discover record
+        - Will bring up the window for updating a moon discoverer record
 
     For information on how to navigate through a more specific update manager
     after clicking on one of these options, such as GalaxyUpdateManager, see the
@@ -163,20 +163,20 @@ Python 3.9 or Python 3.8
 - Record Insertion:
     Shows these options to the user:
 
-    -Create a New Galaxy
-        -Will bring up the window needed to insert a new galaxy
-    -Create a new planet
-        -Will bring up the window needed to insert a new planet
-    -Create a new galaxy type
-        -Will bring up the window needed to insert a new galaxy type
-    -Create a new evolutionary stage
-        -Will bring up the window needed to insert a new evolutionary stage
-    -Create a new planetary system
-        -Will bring up the window needed to insert a new planetary system
-    -Create a new star
-        -Will bring up the window needed to insert a new star
-    -Create a new moon
-        -Will bring up the window needed to insert a new moon
+    - Create a New Galaxy
+        - Will bring up the window needed to insert a new galaxy
+    - Create a new planet
+        - Will bring up the window needed to insert a new planet
+    - Create a new galaxy type
+        - Will bring up the window needed to insert a new galaxy type
+    - Create a new evolutionary stage
+        - Will bring up the window needed to insert a new evolutionary stage
+    - Create a new planetary system
+        - Will bring up the window needed to insert a new planetary system
+    - Create a new star
+        - Will bring up the window needed to insert a new star
+    - Create a new moon
+        - Will bring up the window needed to insert a new moon
 
     For information on how to navigate through a more specific insertion
     manager that appears after clicking one of these options, see the image
@@ -189,24 +189,24 @@ Python 3.9 or Python 3.8
 - Record Deletion
     Shows these options to the user:
 
-    -Delete a planet
-        -Will bring up the window needed to delete a planet
-    -Delete a star
-        -Will bring up the window needed to delete a star
-    -Delete a galaxy
-        -Will bring up the window needed to delete a galaxy
-    -Delete an evolutionary stage
-        -Will bring up the window needed to delete an evolutionary stage
-    -Delete a galaxy type
-        -Will bring up the window needed to delete a galaxy type
-    -Delete a moon
-        -Will bring up the window needed to delete a moon
-    -Delete a planetary system
-        -Will bring up the window needed to delete a planetary system
-    -Delete a moon discoverer
-        -Will bring up the window needed to delete a moon discoverer
-    -Delete a galaxy discoverer
-        -Will bring up the window needed to delete a galaxy discoverer
+    - Delete a planet
+        - Will bring up the window needed to delete a planet
+    - Delete a star
+        - Will bring up the window needed to delete a star
+    - Delete a galaxy
+        - Will bring up the window needed to delete a galaxy
+    - Delete an evolutionary stage
+        - Will bring up the window needed to delete an evolutionary stage
+    - Delete a galaxy type
+        - Will bring up the window needed to delete a galaxy type
+    - Delete a moon
+        - Will bring up the window needed to delete a moon
+    - Delete a planetary system
+        - Will bring up the window needed to delete a planetary system
+    - Delete a moon discoverer
+        - Will bring up the window needed to delete a moon discoverer
+    - Delete a galaxy discoverer
+        - Will bring up the window needed to delete a galaxy discoverer
 
     For more information on how to navigate a more specific deletion manager
     that appears after selecting one of these options, see the image called:
