@@ -1,0 +1,30 @@
+Planet Name: ,Planet Mass (Earth = 1): ,Planet Gravity (Earth = 1): ,Planet Radius (Earth = 1): ,Planet Distance from Earth (ly): ,Planet Equilibrium Temperature (K): ,Planet ESI: ,Planet Rotation Period (Earth Days): ,Planet Orbital Period (Earth Years): ,Planet Escape Velocity (km/s): ,Image Directory: ,Description Located At: ,Moons: ,Star Planet Orbits: ,Atmosphere: ,isDwarf: ,isExoPlanet: 
+Kepler-452 b,None,None,1.63,1799.0,261.0,0.83,None,384.8,None,PlanetImages/Kepler-452B.jpg,PlanetDescriptions/Kepler-452B.txt,,Kepler-62,[],no,yes
+Kepler-442 b,None,None,1.35,1193.0,233.0,0.84,None,112.3,None,PlanetImages/Kepler-442B.jpg,PlanetDescriptions/Kepler-442B.txt,,Kepler-442,[],no,yes
+Kepler-1544 b,None,None,1.78,1092.0,248.0,0.8,None,168.8,None,PlanetImages/Kepler-1544B.jpg,PlanetDescriptions/Kepler-1544B.txt,,Kepler-296,[],no,yes
+Kepler-62 e,None,None,1.61,981.0,264.0,0.83,None,122.4,None,PlanetImages/Kepler-62E.jpg,PlanetDescriptions/Kepler-62E.txt,,Kepler-1652,[],no,yes
+Kepler-62 f,None,None,1.41,981.0,204.0,0.68,None,267.3,None,PlanetImages/Kepler-62F.jpg,PlanetDescriptions/Kepler-62F.txt,,Teegarden's Star,[],no,yes
+Kepler-1229 b,None,None,1.4,865.0,213.0,0.73,None,86.8,None,PlanetImages/Kepler-1229B.jpg,PlanetDescriptions/Kepler-1229B.txt,,TRAPPIST-1,[],no,yes
+Kepler-1652 b,None,None,1.6,822.0,244.0,0.83,None,38.1,None,None,PlanetDescriptions/Kepler-1652B.txt,,Kepler-1544,[],no,yes
+Kepler-296 e,None,None,1.52,737.0,276.0,0.8,None,34.1,None,PlanetImages/Kepler-296E.jpg,PlanetDescriptions/Kepler-296E.txt,,Kepler-283,[],no,yes
+Kepler-186 f,None,None,1.17,579.0,188.0,0.61,None,129.9,None,PlanetImages/Kepler-186F.jpg,PlanetDescriptions/Kepler-186F.txt,,GJ 667 C,[],no,yes
+Kepler-1649 c,None,None,1.06,301.0,237.0,0.9,None,19.5,None,PlanetImages/Kepler-1649c.jpg,PlanetDescriptions/Kepler-1649c.txt,,Kepler-1649,[],no,yes
+K2-72 e,None,None,1.29,217.0,261.0,0.9,None,24.2,None,PlanetImages/K2-72e.jpg,PlanetDescriptions/K2-72e.txt,,K2-72,[],no,yes
+TOI-700 d,None,None,1.14,101.0,246.0,0.93,None,37.4,None,PlanetImages/TOI-700d.jpg,PlanetDescriptions/TOI-700d.txt,,TOI 700,[],no,yes
+TRAPPIST-1 d,0.41,None,0.77,41.0,263.0,0.9,None,4.0,None,PlanetImages/TRAPPIST-1d.jpg,PlanetDescriptions/TRAPPIST-1d.txt,,TRAPPIST-1,[],no,yes
+TRAPPIST-1 g,1.34,None,1.13,41.0,181.0,0.58,None,12.4,None,PlanetImages/TRAPPIST-1G.jpg,PlanetDescriptions/TRAPPIST-1G.txt,,GJ 682,[],no,yes
+TRAPPIST-1 e,0.62,None,0.92,41.0,230.0,0.85,None,6.1,None,PlanetImages/TRAPPIST-1e.jpg,PlanetDescriptions/TRAPPIST-1e.txt,,TRAPPIST-1,[],no,yes
+TRAPPIST-1 f,0.68,None,1.04,41.0,200.0,0.68,None,9.2,None,PlanetImages/TRAPPIST-1F.jpg,PlanetDescriptions/TRAPPIST-1F.txt,,Kepler-62,[],no,yes
+GJ 667 C f,2.54,None,None,24.0,221.0,0.77,None,39.0,None,PlanetImages/GJ667CF.jpg,PlanetDescriptions/GJ667CF.txt,,Kepler-1229,[],no,yes
+GJ 667 C c,3.81,None,None,24.0,247.0,0.8,None,28.1,None,PlanetImages/GJ667CC.jpg,PlanetDescriptions/GJ667CC.txt,,GJ 667 C,[],no,yes
+GJ 667 C e,2.54,None,None,24.0,189.0,0.6,None,62.2,None,None,PlanetDescriptions/GJ667Ce.txt,,tau Cet,[],no,yes
+GJ 682 b,4.4,None,None,16.0,190.0,0.57,None,17.5,None,PlanetImages/GJ682B.jpg,PlanetDescriptions/GJ682B.txt,,Kepler-452,[],no,yes
+Wolf 1061 c,3.41,None,None,14.0,271.0,0.8,None,17.9,None,PlanetImages/Wolf1061C.jpg,PlanetDescriptions/Wolf1061C.txt,,Wolf 1061,[],no,yes
+Teegarden's Star b,1.05,None,None,12.0,264.0,0.95,None,4.9,None,PlanetImages/TeegardensStarB.jpg,PlanetDescriptions/TeegardensStarB.txt,,Teegarden's Star,[],no,yes
+GJ 1061 c,1.74,None,None,12.0,275.0,0.86,None,6.7,None,None,PlanetDescriptions/GJ1061C.txt,,GJ 1061,[],no,yes
+Teegarden's Star c,1.11,None,None,12.0,199.0,0.68,None,11.4,None,None,PlanetDescriptions/TeegardensStarC.txt,,Kepler-186,[],no,yes
+GJ 1061 d,1.64,None,None,12.0,218.0,0.86,None,13.0,None,None,PlanetDescriptions/GJ1061d.txt,,GJ 1061,[],no,yes
+tau Cet f,3.93,None,None,12.0,190.0,0.58,None,636.1,None,PlanetImages/TauCetF.jpg,PlanetDescriptions/TauCetF.txt,,TRAPPIST-1,[],no,yes
+GJ 273 b,2.89,None,None,12.0,258.0,0.85,None,18.6,None,None,PlanetDescriptions/GJ273B.txt,,GJ 273,[],no,yes
+Ross 128 b,1.4,None,None,11.0,280.0,0.86,None,9.9,None,PlanetImages/Ross128b.jpg,PlanetDescriptions/Ross128b.txt,,Ross 128,[],no,yes
+Proxima Cen b,1.27,None,None,4.2,228.0,0.87,None,11.2,None,PlanetImages/ProximaCenB.jpg,PlanetDescriptions/ProximaCenB.txt,,Proxima Cen,[],no,yes
