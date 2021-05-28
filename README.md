@@ -6,9 +6,9 @@
 
 ## Contact information
 
-Name: Diego Avena
-Email: avena@chapman.edu
-Slack: Diego Avena
+- Name: Diego Avena
+- Email: avena@chapman.edu
+- Slack: Diego Avena
 
 ## Overview
 
