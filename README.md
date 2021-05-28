@@ -275,13 +275,13 @@ through google, so I left this for now...
 2. On mac, for some reason trying to scroll while a frame is loading into view causes the program to crash with
 the error message: 
 
-      python quit unexpectedly while using the
-      _tkinter.cpython-38-darwin.so plugin. 
+> python quit unexpectedly while using the
+> _tkinter.cpython-38-darwin.so plugin. 
       
 3. On mac, for some reason the scroll bars do not load in on multiple planetary search, and things are not placed on
 the grid right. When this happens, exiting the multi search window and reentering seems to fix the issue.
 
-      Note to self (for the future): I do not think tkinter plays too nicely with mac...
+> Note to self (for the future): I do not think tkinter plays too nicely with mac...
 
 ## Code files in this project
 
