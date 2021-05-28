@@ -354,6 +354,6 @@ SQL FILE:
 
 - TheUniverse.sql
 
-   This file was used to draft out the queries and all of the
+   - This file was used to draft out the queries and all of the
    DDL statements needed to create the database from within
    python.
