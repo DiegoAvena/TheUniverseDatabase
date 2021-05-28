@@ -17,7 +17,7 @@ is currently extremely scattered throughout the internet.
 
 Through this program, the user can:
 
-a.) Perform updates, insertions, and deletions on
+a. Perform updates, insertions, and deletions on
    -planets
    -galaxies
    -stars
@@ -26,7 +26,7 @@ a.) Perform updates, insertions, and deletions on
    -galaxy discoverers
    -moon discoverers
 
-b.) Peform searches on
+b. Peform searches on
    -Single planets
    -Multiple planets
    -Single galaxies
@@ -34,7 +34,7 @@ b.) Peform searches on
    -Single Stars
    -multiple stars
 
-c.) Generate pdf and csv reports for all the different types of searches they can do on this database
+c. Generate pdf and csv reports for all the different types of searches they can do on this database
    -PDF reports
        -Stored in a directory called pdfReports, located in the same directory as this README
        -These reports allow the user to see images for the things they query
