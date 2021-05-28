@@ -1,11 +1,12 @@
 # TheUniverseDatabase
 
-----CONTACT INFORMATION----
+## Contact information
+
 Name: Diego Avena
 Email: avena@chapman.edu
 Slack: Diego Avena
 
-----OVERVIEW----
+## Overview
 
 This program creates a local mysql database and loads universe data into
 it from a table called UniverseRawData. This table combines data from various resources,
@@ -43,20 +44,20 @@ c.) Generate pdf and csv reports for all the different types of searches they ca
 
 
 
-----WHAT YOU NEED TO HAVE INSTALLED----
+## WHAT YOU NEED TO HAVE INSTALLED
 
 Python 3.9 or Python 3.8
 
-Pycharm:
+1. Pycharm:
 
     If you open the project and it says there is no python interpreter, then do this:
 
-    1.) Either
-            Click on add interpreter, and make sure to add it in for either python 3.9 or python 3.8.
-            OR
-            Click on use Python (version num) if the version is either 3.9 or 3.8
+    - Either
+      Click on add interpreter, and make sure to add it in for either python 3.9 or python 3.8.
+      OR
+      Click on use Python (version num) if the version is either 3.9 or 3.8
 
-    2.) After creating the new interpreter or setting it up, navigate to the Settings tab
+    - After creating the new interpreter or setting it up, navigate to the Settings tab
     (File->Settings if on Windows, and PyCharm->Preferences if on mac), and go to Project, open the dropdown,
     select Python Interpreter, and add the following packages (if not already present):
 
@@ -66,9 +67,9 @@ Pycharm:
 
     After installing these, hit ok. Project should now be able to be run.
 
-Datagrip (for resetting the database):
+2. Datagrip (for resetting the database):
 
-A local mysql instance running on your computer:
+3. A local mysql instance running on your computer:
 
     The password for this instance can be anything, since the program will
     prompt you to enter that password on startup anyways
@@ -77,20 +78,20 @@ A local mysql instance running on your computer:
     the canvas page set up for the database management course.
 
 
-----HOW TO USE----
+## How to use
 
-To launch:
-    -Locate main.py, double click on it to open it in pycharm, and then hit the play button, this
+- To launch:
+    - Locate main.py, double click on it to open it in pycharm, and then hit the play button, this
     will display the main menu options to you
 
-To reset the database:
-    -Go into TheUniverse.sql file, highlight the first
+- To reset the database:
+    - Go into TheUniverse.sql file, highlight the first
     line of the file, and click the play button. This will delete the database
     if it was created, so that the next time you launch this program,
     the database gets reinitialized entirely
 
-The main menu:
-    Shows these options to the user:
+- The main menu:
+    -Shows these options to the user:
 
     -Perform a search
         -will bring up all of the search options
@@ -103,7 +104,7 @@ The main menu:
     -quit
         -will close the app
 
-Record Search Manager
+- Record Search Manager
     Shows these options to the user:
 
     -Single Planet Search
@@ -129,7 +130,7 @@ Record Search Manager
         To exit this option and make all options on the main menu active again, hit the
         exit button located at the top right corner of the window
 
-Record Update Manager
+- Record Update Manager
     Shows these options to the user:
 
     -Update a galaxy record
@@ -159,7 +160,7 @@ Record Update Manager
         To exit this option and make all options on the main menu active again, hit the
         exit button located at the top right corner of the window
 
-Record Insertion:
+- Record Insertion:
     Shows these options to the user:
 
     -Create a New Galaxy
@@ -185,7 +186,7 @@ Record Insertion:
         To exit this option and make all options on the main menu active again, hit the
         exit button located at the top right corner of the window
 
-Record Deletion
+- Record Deletion
     Shows these options to the user:
 
     -Delete a planet
@@ -215,7 +216,7 @@ Record Deletion
         To exit this option and make all options on the main menu active again, hit the
         exit button located at the top right corner of the window
 
-A quick note on loading in images:
+- A quick note on loading in images:
     If you are trying to load an image from a directory you know has images in it, and
     the image loader is not displaying those images for you to choose from, look at the bottom right
     corner of this image loader display box. There will be a dropdown box here allowing you to pick
@@ -224,7 +225,7 @@ A quick note on loading in images:
 
 
 
-----REFERENCES----
+## References
 1.) https://www.youtube.com/watch?v=YXPyB4XeYLA
 Watched all 5 hours of this tutorial which gives a nice overview
 of all the basic tkinter functions. I created a repo on github with each
@@ -259,8 +260,9 @@ where it was saying there was an unread value, so I found this solution and the 
 
 
 
-----KNOWN ISSUES----
-1.) When a textbox loads in, there are some red messages that
+## Known Issues
+
+1. When a textbox loads in, there are some red messages that
 get printed to the console saying:
 
 2021-05-17 22:47:38.137 Python[14004:293946] CoreText note: Client requested name ".SFNSMono-Regular", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
@@ -270,23 +272,23 @@ get printed to the console saying:
 This does not cause the program to crash though, and I have been unable to get information on this
 through google, so I left this for now...
 
-2.) On mac, for some reason trying to scroll while a frame is loading into view causes the program to crash with
+2. On mac, for some reason trying to scroll while a frame is loading into view causes the program to crash with
 the error message: python quit unexpectedly while using the
 _tkinter.cpython-38-darwin.so plugin. Have been unable to find a fix for this, but it seems stem from
 something that is external to this program (so like a package error or something)
 
-3.) On mac, for some reason the scroll bars do not load in on multiple planetary search, and things are not placed on
+3. On mac, for some reason the scroll bars do not load in on multiple planetary search, and things are not placed on
 the grid right. When this happens, exiting the multi search window and reentering seems to fix the issue.
 
 Note to self (for the future): I do not think tkinter plays too nicely with mac...
 
-----CODE FILES IN THIS PROJECT----
+## Code files in this project
 
 PYTHON FILES:
 
 main.py
 
-In code:
+- In Code:
     ReportGenerator.py
     OptionBase.py
     MainMenuManager.py
@@ -294,11 +296,11 @@ In code:
     BaseDataModifierManager.py
     BaseDataBaseInteractionManager.py
 
-    In UpdateManagers:
+    - In UpdateManagers:
         BaseUpdateManager.py
         RecordUpdateManager.py
 
-        InvividualUpdateManagers:
+        - InvividualUpdateManagers:
             EvolutionaryStageUpdateManager.py
             GalaxyDiscovererUpdateManager.py
             GalaxyTypeUpdateManager.py
@@ -309,23 +311,23 @@ In code:
             PlanetUpdateManager.py
             StarUpdateManager
 
-    In SearchManagers
-        In BaseSearchManagers:
+    - In SearchManagers
+        - In BaseSearchManagers:
             BaseMultiSearchManager.py
             BaseSinglerSearchManager.py
-        In MultiSearchManagers:
+        - In MultiSearchManagers:
             MultiGalaxySearchManager.py
             MultiPlanerarySearchManager.py
             MultiStarSearchManager.py
-        In SingleSearchManagers:
+        - In SingleSearchManagers:
             SingleGalaxySearchManager.py
             SinglePlanetarySearchManager.py
             SingleStarSearchManager.py
 
         RecordSearchManager.py
 
-    In InsertionManagers
-        In IndividualInsertionManagers
+    - In InsertionManagers
+        - In IndividualInsertionManagers
             NewEvolutionaryStageInsertionManager.py
             NewGalaxyInsertionManager.py
             NewGalaxyTypeInsertionManager.py
@@ -338,116 +340,19 @@ In code:
         InsertionValidator.py
         RecordInsertionManager.py
 
-    In Displayers
+    - In Displayers
         ImageDisplayerManager.py
         TextBoxManager.py
 
-    In DeletionManagers
+    - In DeletionManagers
         BaseDeletionManager.py
         CompositeDeletionManager.py
         RecordDeletionManager.py
 
 SQL FILE:
 
-TheUniverse.sql
+- TheUniverse.sql
 
-    This file was used to draft out the queries and all of the
-    DDL statements needed to create the database from within
-    python.
-
-
-
-----WHERE TO LOOK FOR GRADING ON THE SQL REQUIREMENTS FOR THE PROJECT----
-
-1.) DataLoader.py contains all of the DDL SQL statements used to create the
-database, from the 2 views, to the tables, to the indexes, to the foreign keys.
-
-2.) The 2 queries that involve joins across at least 3 tables:
-
-The first one (3 joins):
-
-    Appears when searching for exoplanets that are in the habit zone
-    while using the Multi-planetary search option. This is the following query that
-    gets used (printed out in the console when the user hits confirmSearch):
-
-    SELECT Planets.Name
-        FROM Planets INNER JOIN ExoPlanetsInHabitZone
-            ON Planets.Name = ExoPlanetsInHabitZone.PlanetName;
-
-    The other 2 joins are hidden inside of the ExoPlanetsInHabitZone view that
-    is joined with, which is created with
-    this query:
-
-    CREATE VIEW ExoPlanetsInHabitZone AS
-    SELECT ExoPlanetNames.Name
-    FROM (
-
-        SELECT PlanetName AS Name
-        FROM StarsPlanetsOrbit
-        INNER JOIN Stars
-        ON (Stars.Name = StarsPlanetsOrbit.StarName)
-            AND (Stars.PlanetarySystem != 'Solar System')
-
-    ) AS ExoPlanetNames
-    INNER JOIN PlanetsInHabitZone
-        ON ExoPlanetNames.Name = PlanetsInHabitZone.Name;
-
-The second one (4 joins):
-
-    Appears when searching for only the exoplanets that are in the habit zone and then
-    sorting those exoplanets by the star they orbit, which results in this query:
-
-    SELECT Planets.Name, StarsPlanetsOrbit.StarName
-    FROM Planets INNER JOIN StarsPlanetsOrbit
-        ON Planets.Name = StarsPlanetsOrbit.PlanetName INNER JOIN ExoPlanetsInHabitZone
-            ON Planets.Name = ExoPlanetsInHabitZone.PlanetName
-    ORDER BY StarName;
-
-    The other 2 joins are, once again, located inside of the ExoPlanetsInHabitZone view, created
-    with this query:
-
-    CREATE VIEW ExoPlanetsInHabitZone AS
-    SELECT ExoPlanetNames.Name
-    FROM (
-
-        SELECT PlanetName AS Name
-        FROM StarsPlanetsOrbit
-        INNER JOIN Stars
-        ON (Stars.Name = StarsPlanetsOrbit.StarName)
-            AND (Stars.PlanetarySystem != 'Solar System')
-
-    ) AS ExoPlanetNames
-    INNER JOIN PlanetsInHabitZone
-        ON ExoPlanetNames.Name = PlanetsInHabitZone.Name;
-
-
-3.) A query that performs an aggregation/group by clause:
-
-Sorting planets by moon count from within the multi-planetary search option,
-which results in this query:
-
-SELECT Planets.Name, COUNT(Moons.Name) AS MoonCount
-FROM Moons, Planets
-WHERE Planets.Name = Moons.PlanetItOrbits
-GROUP BY Planets.Name
-ORDER BY MoonCount DESC;
-
-4.) A query that contains a subquery:
-
-The exoplanets in habit zone view contains a subquery:
-
-CREATE VIEW ExoPlanetsInHabitZone AS
-    SELECT ExoPlanetNames.Name
-    FROM (
-
-        SELECT PlanetName AS Name
-        FROM StarsPlanetsOrbit
-        INNER JOIN Stars
-        ON (Stars.Name = StarsPlanetsOrbit.StarName)
-            AND (Stars.PlanetarySystem != 'Solar System')
-
-    ) AS ExoPlanetNames
-    INNER JOIN PlanetsInHabitZone
-        ON ExoPlanetNames.Name = PlanetsInHabitZone.Name;
-
-
+   This file was used to draft out the queries and all of the
+   DDL statements needed to create the database from within
+   python.
