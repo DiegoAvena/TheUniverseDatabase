@@ -265,22 +265,23 @@ where it was saying there was an unread value, so I found this solution and the 
 1. When a textbox loads in, there are some red messages that
 get printed to the console saying:
 
-2021-05-17 22:47:38.137 Python[14004:293946] CoreText note: Client requested name ".SFNSMono-Regular", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
-2021-05-17 22:47:38.137 Python[14004:293946] CoreText note: Set a breakpoint on CTFontLogSystemFontNameRequest to debug.
-2021-05-17 22:47:38.187 Python[14004:293946] CoreText note: Client requested name ".SF NS Mono", it will get Times-Roman rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+      2021-05-17 22:47:38.137 Python[14004:293946] CoreText note: Client requested name ".SFNSMono-Regular", it will get Times-Roman rather than the intended font.        All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+      2021-05-17 22:47:38.137 Python[14004:293946] CoreText note: Set a breakpoint on CTFontLogSystemFontNameRequest to debug.
+      2021-05-17 22:47:38.187 Python[14004:293946] CoreText note: Client requested name ".SF NS Mono", it will get Times-Roman rather than the intended font. All          system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
 
 This does not cause the program to crash though, and I have been unable to get information on this
 through google, so I left this for now...
 
 2. On mac, for some reason trying to scroll while a frame is loading into view causes the program to crash with
-the error message: python quit unexpectedly while using the
-_tkinter.cpython-38-darwin.so plugin. Have been unable to find a fix for this, but it seems stem from
-something that is external to this program (so like a package error or something)
+the error message: 
 
+      python quit unexpectedly while using the
+      _tkinter.cpython-38-darwin.so plugin. 
+      
 3. On mac, for some reason the scroll bars do not load in on multiple planetary search, and things are not placed on
 the grid right. When this happens, exiting the multi search window and reentering seems to fix the issue.
 
-Note to self (for the future): I do not think tkinter plays too nicely with mac...
+      Note to self (for the future): I do not think tkinter plays too nicely with mac...
 
 ## Code files in this project
 
