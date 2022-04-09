@@ -78,10 +78,6 @@ Python 3.9 or Python 3.8
     - The password for this instance can be anything, since the program will
     prompt you to enter that password on startup anyways
 
-    - To set this up, I used the "MySQL installation guide" slides that are in
-    the canvas page set up for the database management course.
-
-
 ## How to use
 
 - To launch:
